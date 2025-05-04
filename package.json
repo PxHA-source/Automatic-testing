@@ -8,7 +8,11 @@
   "directories": {
     "test": "tests"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "intelli-espower-loader": "^1.1.0",
+    "mocha": "^11.2.2",
+    "power-assert": "^1.6.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
